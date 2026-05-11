@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vifor27
-- 👀 I’m interested in developing applications on C# and C++
-- 🌱 I’m currently learning C# and C++
+Just a software developer student. Archive proficency in these technologies:
 
-<!---
-Vifor27/Vifor27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. .Net frameworks and C# programming language.
+2. SQL Server.
+3. JavaScript, CSS and HTML.
+4. JS frameworks like React.
+
+Currently interested in backend development and learning PHP.
