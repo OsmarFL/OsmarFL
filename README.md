@@ -1,4 +1,4 @@
-Just a software developer student. Archive proficency in these technologies:
+Software developer student. Archived proficency in these technologies:
 
 1. .Net frameworks and C# programming language.
 2. SQL Server.
