@@ -1,8 +1,14 @@
-Software developer student. Archived proficency in these technologies:
+# Hi, I'm Osmar 👋
 
-1. .Net frameworks and C# programming language.
-2. SQL Server.
-3. JavaScript, CSS and HTML.
-4. JS frameworks like React.
+Software developer focused on web development with .NET and React. Looking for a position where I can keep growing and contribute to real-world projects.
 
-Currently interested in backend development and learning PHP.
+## Tech Stack
+
+**Backend:** C#, .NET, Java, Node.js
+**Frontend:** JavaScript, React, HTML, CSS
+**Databases:** SQL Server, MySQL
+
+## Featured Projects
+
+- **[BookNow](https://github.com/OsmarFL/Sistema-De-Reservas-De-Alojamientos)**: full-stack lodging reservation platform built with .NET (Clean Architecture), React, SQL Server, and JWT authentication.
+- **[TODO List](https://github.com/OsmarFL/To-Do-List)**: task manager built with .NET, with JSON file persistence.
