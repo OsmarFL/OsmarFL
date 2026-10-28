@@ -10,5 +10,5 @@ Software developer focused on web development with .NET and React. Looking for a
 
 ## Featured Projects
 
-- **[BookNow](https://github.com/OsmarFL/Sistema-De-Reservas-De-Alojamientos)**: full-stack lodging reservation platform built with .NET (Clean Architecture), React, SQL Server, and JWT authentication.
-- **[TODO List](https://github.com/OsmarFL/To-Do-List)**: task manager built with .NET, with JSON file persistence.
+- **[BookNow](https://github.com/OsmarFL/Sistema-De-Reservas-De-Alojamientos)**:  Full-stack lodging reservation platform built with .NET (Clean Architecture), React, SQL Server, and JWT authentication.
+- **[TODO List](https://github.com/OsmarFL/To-Do-List)**:  Task manager built with .NET, with JSON file persistence.
