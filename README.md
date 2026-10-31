@@ -1,6 +1,6 @@
 # Hi, I'm Osmar 👋
 
-Software developer focused on web development with .NET and React. Looking for a position where I can keep growing and contribute to real-world projects.
+Software developer focused on web development and .Net framework. Looking for a position where I can keep growing and contribute to real-world projects.
 
 ## Tech Stack
 
